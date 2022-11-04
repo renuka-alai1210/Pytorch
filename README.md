@@ -2,7 +2,7 @@
 PyTorch is an open source machine learning library used for developing and training neural network based deep learning models.
 
 # Advantages of PyTorch
-1.It is easy to debug and understand the code.
+1.It is easy to debug and understand the code./newline
 2.It includes many layers as Torch.
 3.It includes lot of loss functions.
 4.It can be considered as NumPy extension to GPUs.
